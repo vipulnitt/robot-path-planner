@@ -1,4 +1,6 @@
 # robot-path-planner
+
+# Instructions for execution
 1. python3 -m pip install -r requirements.txt
 2. cd robot\ path\ planner/
 3. python3 cbs.py input.yaml output.yaml
